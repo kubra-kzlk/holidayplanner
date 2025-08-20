@@ -1,0 +1,64 @@
+{
+  "countries": [
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "holidays": [
+        {
+          "id": 1,
+          "year": 2025,
+          "date": "2025-01-01",
+          "name": "Nieuwjaar",
+          "type": "Public"
+        },
+        {
+          "id": 2,
+          "year": 2025,
+          "date": "2025-05-01",
+          "name": "Dag van de Arbeid",
+          "type": "Public"
+        }
+      ]
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "holidays": [
+        {
+          "id": 3,
+          "year": 2025,
+          "date": "2025-07-14",
+          "name": "Fête nationale",
+          "type": "Public"
+        },
+        {
+          "id": 4,
+          "year": 2025,
+          "date": "2025-11-11",
+          "name": "Armistice",
+          "type": "Public"
+        }
+      ]
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "holidays": [
+        {
+          "id": 5,
+          "year": 2025,
+          "date": "2025-07-04",
+          "name": "Independence Day",
+          "type": "Federal"
+        },
+        {
+          "id": 6,
+          "year": 2025,
+          "date": "2025-11-27",
+          "name": "Thanksgiving",
+          "type": "Federal"
+        }
+      ]
+    }
+  ]
+}
