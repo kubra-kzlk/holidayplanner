@@ -1,10 +1,4 @@
-Perfect 👌 ik snap wat je bedoelt: je wilt nu een **moeilijkere oefening**, met een **complexere dataset** (meerdere entiteiten, relaties) en vragen die **binnen de scope van de labo’s** liggen (CSR, SSR, SSG, API routes, dynamische routes, search/filter, enz.). Dus geen nieuwe concepten, maar wel op een hoger niveau dan het "weapons"-voorbeeld.
-
-Hier is een voorstel:
-
----
-
-# Examenoefening: **Holiday Planner**
+ **Holiday Planner**
 
 We werken met een dataset die bestaat uit **landen** en hun **feestdagen**.
 De dataset is groter en genest, zodat de studenten meer moeten nadenken over filtering en dynamische routing.
